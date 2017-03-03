@@ -1,0 +1,3 @@
+[submodule "themes/gandalfr"]
+	path = themes/gandalfr
+	url = https://github.com/stcatz/hexo-theme-gandalfr.git
