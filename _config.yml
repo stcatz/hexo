@@ -72,4 +72,4 @@ deploy:
   type: git
   repo: https://github.com/stcatz/stcatz.github.com.git
   branch: master
-  message: Site updated
+  message: Added hello world
