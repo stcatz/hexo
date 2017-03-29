@@ -1,3 +1,6 @@
 [submodule "themes/gandalfr"]
 	path = themes/gandalfr
 	url = https://github.com/stcatz/hexo-theme-gandalfr.git
+[submodule "themes/next"]
+	path = themes/next
+	url = https://github.com/iissnan/hexo-theme-next.git
