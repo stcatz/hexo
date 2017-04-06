@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: St.c@tz
+title: St.c@tz's lock
 subtitle:
-description: Technical blog of stcatz about everthing related to Cloud Computing.
+description: Technical blog of stcatz about everthing related to Cloud Computing, Internet, Machine learning and fun.
 author: stcatz
 language: zh-cn
 timezone:
@@ -72,4 +72,4 @@ deploy:
   type: git
   repo: https://github.com/stcatz/stcatz.github.com.git
   branch: master
-  message: Added hello world
+  message: Make disqus work
