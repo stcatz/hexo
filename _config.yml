@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: St.c@tz's lock
+title: Stcatz's lock
 subtitle:
 description: Technical blog of stcatz about everthing related to Cloud Computing, Internet, Machine learning and fun.
 author: stcatz
@@ -12,7 +12,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://stcatz.com
+url: https://stcatz.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
